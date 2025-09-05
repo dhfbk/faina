@@ -1,0 +1,6 @@
+transformers>=4.0.0
+torch>=1.3.0
+sentencepiece
+jsonnet
+tqdm
+uniplot

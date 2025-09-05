@@ -1,0 +1,22 @@
+{
+  "post-level": {
+    "train_data_path": "machamp/data/post-level/train-dev.tsv",
+    "sent_idxs": [3],
+    "tasks": {
+      "a1": {
+        "column_idx": 4,
+        "task_type": "multiclas",
+        "metric": "multi_acc",
+        "loss_weight": 1.0,
+        "threshold": 0.7
+      },
+      "a2": {
+        "column_idx": 5,
+        "task_type": "multiclas",
+        "metric": "multi_acc",
+        "loss_weight": 1.0,
+        "threshold": 0.7
+      }
+    }
+  }
+}

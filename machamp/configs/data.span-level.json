@@ -1,0 +1,248 @@
+{
+  "span-level": {
+    "train_data_path": "machamp/data/span-level/train-dev.conll",
+    "word_idx": 1,
+    "tasks": {
+      "a1-ah": {
+        "column_idx": 2,
+        "task_type": "seq_bio",
+        "metric": "span_f1",
+        "loss_weight": 1.0
+      },
+      "a1-aa": {
+        "column_idx": 3,
+        "task_type": "seq_bio",
+        "metric": "span_f1",
+        "loss_weight": 1.0
+      },
+      "a1-ae": {
+        "column_idx": 4,
+        "task_type": "seq_bio",
+        "metric": "span_f1",
+        "loss_weight": 1.0
+      },
+      "a1-co": {
+        "column_idx": 5,
+        "task_type": "seq_bio",
+        "metric": "span_f1",
+        "loss_weight": 1.0
+      },
+      "a1-cp": {
+        "column_idx": 6,
+        "task_type": "seq_bio",
+        "metric": "span_f1",
+        "loss_weight": 1.0
+      },
+      "a1-cr": {
+        "column_idx": 7,
+        "task_type": "seq_bio",
+        "metric": "span_f1",
+        "loss_weight": 1.0
+      },
+      "a1-do": {
+        "column_idx": 8,
+        "task_type": "seq_bio",
+        "metric": "span_f1",
+        "loss_weight": 1.0
+      },
+      "a1-ep": {
+        "column_idx": 9,
+        "task_type": "seq_bio",
+        "metric": "span_f1",
+        "loss_weight": 1.0
+      },
+      "a1-fa": {
+        "column_idx": 10,
+        "task_type": "seq_bio",
+        "metric": "span_f1",
+        "loss_weight": 1.0
+      },
+      "a1-fd": {
+        "column_idx": 11,
+        "task_type": "seq_bio",
+        "metric": "span_f1",
+        "loss_weight": 1.0
+      },
+      "a1-fw": {
+        "column_idx": 12,
+        "task_type": "seq_bio",
+        "metric": "span_f1",
+        "loss_weight": 1.0
+      },
+      "a1-hg": {
+        "column_idx": 13,
+        "task_type": "seq_bio",
+        "metric": "span_f1",
+        "loss_weight": 1.0
+      },
+      "a1-ll": {
+        "column_idx": 14,
+        "task_type": "seq_bio",
+        "metric": "span_f1",
+        "loss_weight": 1.0
+      },
+      "a1-nc": {
+        "column_idx": 15,
+        "task_type": "seq_bio",
+        "metric": "span_f1",
+        "loss_weight": 1.0
+      },
+      "a1-rh": {
+        "column_idx": 16,
+        "task_type": "seq_bio",
+        "metric": "span_f1",
+        "loss_weight": 1.0
+      },
+      "a1-ss": {
+        "column_idx": 17,
+        "task_type": "seq_bio",
+        "metric": "span_f1",
+        "loss_weight": 1.0
+      },
+      "a1-sl": {
+        "column_idx": 18,
+        "task_type": "seq_bio",
+        "metric": "span_f1",
+        "loss_weight": 1.0
+      },
+      "a1-st": {
+        "column_idx": 19,
+        "task_type": "seq_bio",
+        "metric": "span_f1",
+        "loss_weight": 1.0
+      },
+      "a1-tc": {
+        "column_idx": 20,
+        "task_type": "seq_bio",
+        "metric": "span_f1",
+        "loss_weight": 1.0
+      },
+      "a1-va": {
+        "column_idx": 21,
+        "task_type": "seq_bio",
+        "metric": "span_f1",
+        "loss_weight": 1.0
+      },
+      "a2-ah": {
+        "column_idx": 22,
+        "task_type": "seq_bio",
+        "metric": "span_f1",
+        "loss_weight": 1.0
+      },
+      "a2-aa": {
+        "column_idx": 23,
+        "task_type": "seq_bio",
+        "metric": "span_f1",
+        "loss_weight": 1.0
+      },
+      "a2-ae": {
+        "column_idx": 24,
+        "task_type": "seq_bio",
+        "metric": "span_f1",
+        "loss_weight": 1.0
+      },
+      "a2-co": {
+        "column_idx": 25,
+        "task_type": "seq_bio",
+        "metric": "span_f1",
+        "loss_weight": 1.0
+      },
+      "a2-cp": {
+        "column_idx": 26,
+        "task_type": "seq_bio",
+        "metric": "span_f1",
+        "loss_weight": 1.0
+      },
+      "a2-cr": {
+        "column_idx": 27,
+        "task_type": "seq_bio",
+        "metric": "span_f1",
+        "loss_weight": 1.0
+      },
+      "a2-do": {
+        "column_idx": 28,
+        "task_type": "seq_bio",
+        "metric": "span_f1",
+        "loss_weight": 1.0
+      },
+      "a2-ep": {
+        "column_idx": 29,
+        "task_type": "seq_bio",
+        "metric": "span_f1",
+        "loss_weight": 1.0
+      },
+      "a2-fa": {
+        "column_idx": 30,
+        "task_type": "seq_bio",
+        "metric": "span_f1",
+        "loss_weight": 1.0
+      },
+      "a2-fd": {
+        "column_idx": 31,
+        "task_type": "seq_bio",
+        "metric": "span_f1",
+        "loss_weight": 1.0
+      },
+      "a2-fw": {
+        "column_idx": 32,
+        "task_type": "seq_bio",
+        "metric": "span_f1",
+        "loss_weight": 1.0
+      },
+      "a2-hg": {
+        "column_idx": 33,
+        "task_type": "seq_bio",
+        "metric": "span_f1",
+        "loss_weight": 1.0
+      },
+      "a2-ll": {
+        "column_idx": 34,
+        "task_type": "seq_bio",
+        "metric": "span_f1",
+        "loss_weight": 1.0
+      },
+      "a2-nc": {
+        "column_idx": 35,
+        "task_type": "seq_bio",
+        "metric": "span_f1",
+        "loss_weight": 1.0
+      },
+      "a2-rh": {
+        "column_idx": 36,
+        "task_type": "seq_bio",
+        "metric": "span_f1",
+        "loss_weight": 1.0
+      },
+      "a2-ss": {
+        "column_idx": 37,
+        "task_type": "seq_bio",
+        "metric": "span_f1",
+        "loss_weight": 1.0
+      },
+      "a2-sl": {
+        "column_idx": 38,
+        "task_type": "seq_bio",
+        "metric": "span_f1",
+        "loss_weight": 1.0
+      },
+      "a2-st": {
+        "column_idx": 39,
+        "task_type": "seq_bio",
+        "metric": "span_f1",
+        "loss_weight": 1.0
+      },
+      "a2-tc": {
+        "column_idx": 40,
+        "task_type": "seq_bio",
+        "metric": "span_f1",
+        "loss_weight": 1.0
+      },
+      "a2-va": {
+        "column_idx": 41,
+        "task_type": "seq_bio",
+        "metric": "span_f1",
+        "loss_weight": 1.0
+      }
+    }
+  }
+}
